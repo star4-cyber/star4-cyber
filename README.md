@@ -4,7 +4,7 @@ Curiosa por natureza (culpa do meu PS3 que me fez "hackear" antes de tudo!). Apr
 Vamos codar juntos?
 
 - Avançando nos conceitos básicos da linguagem C e explorando o mundo tecnológico 🤩
-- Sempre disposta a ajudar e receber ajuda
+- disposta a ajudar e trocar conhecimentos 😁
 - Me conheça um pouco mais pelo LinkedIn: https://www.linkedin.com/in/geovanatessaro
 
  

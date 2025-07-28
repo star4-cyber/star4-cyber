@@ -7,9 +7,9 @@ Avançando nos conceitos básicos da linguagem C e explorando o mundo tecnológi
 Disposta a ajudar e trocar conhecimentos 😁
 Me conheça um pouco mais pelo LinkedIn: https://www.linkedin.com/in/geovanatessaro
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=star4-cyber&show_icons=true&theme=radical)](https://github.com/anuraghaza/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star4-cyber&layout=compact&theme=radical)](https://github.com/anuraghaza/github-readme-stats)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=star4-cyber&theme=radical)](https://git.io/streak-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getessaro&show_icons=true&theme=radical)](https://github.com/anuraghaza/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getessaro&layout=compact&theme=radical)](https://github.com/anuraghaza/github-readme-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=getessaro&theme=radical)](https://git.io/streak-stats)
 
  
   

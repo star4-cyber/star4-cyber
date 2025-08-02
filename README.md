@@ -7,9 +7,17 @@ Avançando nos conceitos básicos da linguagem C e explorando o mundo tecnológi
 Disposta a ajudar e trocar conhecimentos 😁\
 Me conheça um pouco mais pelo LinkedIn: https://www.linkedin.com/in/geovanatessaro
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getessaro&show_icons=true&theme=radical)](https://github.com/anuraghaza/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getessaro&layout=compact&theme=radical)](https://github.com/anuraghaza/github-readme-stats)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=getessaro&theme=radical)](https://git.io/streak-stats)
+<div align="center">
+
+| | | |
+|---|---|---|
+| [![Geovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=getessaro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getessaro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=getessarotheme=dark)](https://git.io/streak-stats) |
+
+</div>
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getessaro&show_icons=true&theme=nightowl)](https://github.com/anuraghaza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getessaro&layout=compact&theme=nightowl)](https://github.com/anuraghaza/github-readme-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=getessaro&theme=nightowl)](https://git.io/streak-stats)|
 
  
   

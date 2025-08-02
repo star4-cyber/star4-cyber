@@ -15,9 +15,6 @@ Me conheça um pouco mais pelo LinkedIn: https://www.linkedin.com/in/geovanatess
 
 </div>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getessaro&show_icons=true&theme=nightowl)](https://github.com/anuraghaza/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getessaro&layout=compact&theme=nightowl)](https://github.com/anuraghaza/github-readme-stats)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=getessaro&theme=nightowl)](https://git.io/streak-stats)|
 
  
   

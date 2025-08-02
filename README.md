@@ -9,7 +9,7 @@ Conecte-se comigo pelo LinkedIn 📮: https://www.linkedin.com/in/geovanatessaro
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getessaro&show_icons=true&theme=dark&bg_color=9730db&border_color=2b97fa)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getessaro&layout=compact&hide=javascript&theme=dracula&bg_color=9730db&border_color=2b97fa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getessaro&layout=compact&theme=dracula&bg_color=9730db&border_color=2b97fa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

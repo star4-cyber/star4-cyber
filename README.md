@@ -7,13 +7,18 @@ Avançando nos conceitos básicos da linguagem C e explorando o mundo tecnológi
 Disposta a ajudar e trocar conhecimentos 😁\
 Me conheça um pouco mais pelo LinkedIn: https://www.linkedin.com/in/geovanatessaro
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=getessaro&show_icons=true&theme=onedark&hide_border=false&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getessaro&layout=compact&theme=onedark&hide_border=false&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas"/>
+</p>
 
-| | | |
-|---|---|---|
-| [![Geovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=getessaro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getessaro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=getessarotheme=dark)](https://git.io/streak-stats) |
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=getessaro&radius=16&theme=darkl&area=true&order=5&hide_border=false&hide_title=false&custom_title=Gráfico%20de%20Atividades" alt="Gráfico de Atividades">
+</p>
 
-</div>
+
+
+
 
 
  

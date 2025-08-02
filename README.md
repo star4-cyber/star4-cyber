@@ -8,8 +8,8 @@ Disposta a ajudar e trocar conhecimentos 😁\
 Me conheça um pouco mais pelo LinkedIn: https://www.linkedin.com/in/geovanatessaro
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=getessaro&show_icons=true&theme=vue&hide_border=false&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getessaro&layout=compact&theme=vue&hide_border=false&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=getessaro&show_icons=true&theme=nord&hide_border=false&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getessaro&layout=compact&theme=nord&hide_border=false&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas"/>
 </p>
 
 <p align="center">

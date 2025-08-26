@@ -1,9 +1,9 @@
 ## Olá! Sou a Geovana ❤️
 
-Curiosa por natureza (culpa do meu PS3 que me fez "hackear" antes de tudo!) 😅. Aprendendo HTML, CSS, JS e C. Sonhando alto em construir apps incríveis. Futura desenvolvedora Fullstack! Meus repositórios são meu diário de bordo.\
+Curiosa por natureza (culpa do meu PS3 que me fez "hackear" antes de tudo!) 😅. Aprendendo HTML, CSS, JS . Sonhando alto em construir apps incríveis. Futura desenvolvedora Fullstack! Meus repositórios são meu diário de bordo.\
 Vamos codar juntos?
 
-Avançando nos conceitos básicos da linguagem C e explorando o mundo tecnológico 🤩\
+Avançando nos conceitos básicos da carreira FullStack e explorando o mundo tecnológico 🤩\
 Disposta a ajudar e trocar conhecimentos 😁\
 Conecte-se comigo pelo LinkedIn 📮: https://www.linkedin.com/in/geovanatessaro
 
